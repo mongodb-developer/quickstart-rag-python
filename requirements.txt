@@ -1,0 +1,4 @@
+llama_index
+pymongo
+openai
+python_dotenv
