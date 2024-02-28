@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Python project demonstrates semantic search using MongoDB and two different LLM frameworks: LangChain and LlamaIndex. The goal is to load documents from MongoDB, generate embeddings for the text data, and perform semantic searches using both LangChain and LlamaIndex frameworks.
+This Python project demonstrates semantic search using MongoDB and two different LLM frameworks: **LangChain** and **LlamaIndex**. The goal is to load documents from MongoDB, generate embeddings for the text data, and perform semantic searches using both **LangChain** and **LlamaIndex** frameworks.
 
 ## Environment Variables
 
