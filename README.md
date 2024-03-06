@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/path-to-notebook)
+
 # Semantic Search with MongoDB and LLM Frameworks
 
 ## Introduction
